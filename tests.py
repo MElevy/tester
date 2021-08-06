@@ -6,7 +6,6 @@ class test:
 		import sys
 		import io
 		import time
-		import colors
 		sT=time.time()
 		old_stdout = sys.stdout
 		new_stdout = io.StringIO()
